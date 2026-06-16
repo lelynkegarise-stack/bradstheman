@@ -1,12 +1,20 @@
-.button {
-  background-color: #007BFF; /* Primary blue color */
-  color: white;              /* White text color */
-  border: none;              /* Removes default 3D border */
-  border-radius: 5px;        /* Slightly rounds the corners */
-  padding: 10px 20px;        /* Spaces out text inside button */
-  font-size: 16px;           /* Sets readable text size */
-  cursor: pointer;           /* Changes mouse cursor to a hand */
+/* 1. Target the parent container to do the positioning */
+.button-container {
+  display: flex;
+  justify-content: center; /* Centers the button horizontally */
+  width: 100%;             /* Ensures the container spans full width */
 }
+
+/* 2. Your actual button styling remains independent */
+.button {
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
 
 /* Hover state effect */
 .button:hover {
