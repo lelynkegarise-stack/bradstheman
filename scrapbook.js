@@ -279,7 +279,7 @@ const allScrapbooks = {
     "texas":[
             { src: 'images/texas1.png', caption: '' },
             { src: 'images/texas2.png', caption: '' },
-            { src: 'images/texas3.png', caption: '' },
+           // { src: 'images/texas3.png', caption: '' },
             { src: 'images/texas4.png', caption: '' },
             { src: 'images/texas5.png', caption: '' },
             { src: 'images/texas6.png', caption: '' },
