@@ -65,7 +65,7 @@ const allScrapbooks = {
         { src: 'images/italy1.png', caption: 'Church' },
         { src: 'images/italy2.png', caption: 'Collosium' },
         { src: 'images/italy3.png', caption: '' },
-        { src: 'images/italy4.png', caption: 'Aincient Pottery' }, 
+        { src: 'images/italy4.png', caption: 'Ancient Pottery' }, 
         { src: 'images/italy5.png', caption: '' },
         { src: 'images/italy6.png', caption: 'Greece' },
         { src: 'images/italy7.png', caption: 'Post Card Picture!' },
