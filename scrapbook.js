@@ -19,7 +19,7 @@ const allScrapbooks = {
         { src: 'images/family16.png', caption: 'Christmas Church 2025' },
         { src: 'images/family17.png', caption: 'Happy Couple' },
         { src: 'images/family18.png', caption: '' },
-        { src: 'images/family19.png', caption: 'Mini gold' },
+        { src: 'images/family19.png', caption: 'Mini golf' },
         { src: 'images/family20.png', caption: 'Christmas' },
         { src: 'images/family21.png', caption: 'Scooby doo' },
         { src: 'images/family22.png', caption: '' },
